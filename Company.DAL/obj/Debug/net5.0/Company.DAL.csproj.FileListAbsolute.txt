@@ -1,0 +1,12 @@
+E:\C# Projects\Company.console\Company.DAL\bin\Debug\net5.0\Company.DAL.deps.json
+E:\C# Projects\Company.console\Company.DAL\bin\Debug\net5.0\Company.DAL.dll
+E:\C# Projects\Company.console\Company.DAL\bin\Debug\net5.0\ref\Company.DAL.dll
+E:\C# Projects\Company.console\Company.DAL\bin\Debug\net5.0\Company.DAL.pdb
+E:\C# Projects\Company.console\Company.DAL\obj\Debug\net5.0\Company.DAL.csproj.AssemblyReference.cache
+E:\C# Projects\Company.console\Company.DAL\obj\Debug\net5.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Company.console\Company.DAL\obj\Debug\net5.0\Company.DAL.AssemblyInfoInputs.cache
+E:\C# Projects\Company.console\Company.DAL\obj\Debug\net5.0\Company.DAL.AssemblyInfo.cs
+E:\C# Projects\Company.console\Company.DAL\obj\Debug\net5.0\Company.DAL.csproj.CoreCompileInputs.cache
+E:\C# Projects\Company.console\Company.DAL\obj\Debug\net5.0\Company.DAL.dll
+E:\C# Projects\Company.console\Company.DAL\obj\Debug\net5.0\ref\Company.DAL.dll
+E:\C# Projects\Company.console\Company.DAL\obj\Debug\net5.0\Company.DAL.pdb

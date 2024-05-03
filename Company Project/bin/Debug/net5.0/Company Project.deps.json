@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Company Project/1.0.0": {
+        "dependencies": {
+          "Company.BLL": "1.0.0",
+          "Company.DAL": "1.0.0"
+        },
+        "runtime": {
+          "Company Project.dll": {}
+        }
+      },
+      "Company.BLL/1.0.0": {
+        "dependencies": {
+          "Company.DAL": "1.0.0"
+        },
+        "runtime": {
+          "Company.BLL.dll": {}
+        }
+      },
+      "Company.DAL/1.0.0": {
+        "runtime": {
+          "Company.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Company Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Company.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Company.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

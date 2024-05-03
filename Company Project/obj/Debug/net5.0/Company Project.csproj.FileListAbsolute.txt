@@ -1,0 +1,21 @@
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company Project.exe
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company Project.deps.json
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company Project.runtimeconfig.json
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company Project.runtimeconfig.dev.json
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company Project.dll
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\ref\Company Project.dll
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company Project.pdb
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company.DAL.dll
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company.DAL.pdb
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.csproj.AssemblyReference.cache
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.AssemblyInfoInputs.cache
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.AssemblyInfo.cs
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.csproj.CoreCompileInputs.cache
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.csproj.CopyComplete
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.dll
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\ref\Company Project.dll
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.pdb
+E:\C# Projects\Company.console\Company Project\obj\Debug\net5.0\Company Project.genruntimeconfig.cache
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company.BLL.dll
+E:\C# Projects\Company.console\Company Project\bin\Debug\net5.0\Company.BLL.pdb

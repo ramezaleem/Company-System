@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Company.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Company.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Company.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Company.BLL.dll": {}
+        }
+      },
+      "Company.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Company.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Company.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Company.BLL/1.0.0": {
+      "type": "project",
+      "path": "../Company.BLL/Company.BLL.csproj",
+      "msbuildProject": "../Company.BLL/Company.BLL.csproj"
+    },
+    "Company.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Company.DAL/Company.DAL.csproj",
+      "msbuildProject": "../Company.DAL/Company.DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Company.BLL >= 1.0.0",
+      "Company.DAL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ramez Aleem\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\C# Projects\\Company.console\\Company Project\\Company Project.csproj",
+      "projectName": "Company Project",
+      "projectPath": "E:\\C# Projects\\Company.console\\Company Project\\Company Project.csproj",
+      "packagesPath": "C:\\Users\\Ramez Aleem\\.nuget\\packages\\",
+      "outputPath": "E:\\C# Projects\\Company.console\\Company Project\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ramez Aleem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\C# Projects\\Company.console\\Company.BLL\\Company.BLL.csproj": {
+              "projectPath": "E:\\C# Projects\\Company.console\\Company.BLL\\Company.BLL.csproj"
+            },
+            "E:\\C# Projects\\Company.console\\Company.DAL\\Company.DAL.csproj": {
+              "projectPath": "E:\\C# Projects\\Company.console\\Company.DAL\\Company.DAL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

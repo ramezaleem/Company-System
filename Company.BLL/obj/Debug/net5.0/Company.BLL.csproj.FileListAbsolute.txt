@@ -1,0 +1,15 @@
+E:\C# Projects\Company.console\Company.BLL\bin\Debug\net5.0\Company.BLL.deps.json
+E:\C# Projects\Company.console\Company.BLL\bin\Debug\net5.0\Company.BLL.dll
+E:\C# Projects\Company.console\Company.BLL\bin\Debug\net5.0\ref\Company.BLL.dll
+E:\C# Projects\Company.console\Company.BLL\bin\Debug\net5.0\Company.BLL.pdb
+E:\C# Projects\Company.console\Company.BLL\bin\Debug\net5.0\Company.DAL.dll
+E:\C# Projects\Company.console\Company.BLL\bin\Debug\net5.0\Company.DAL.pdb
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.AssemblyReference.cache
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\Company.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\Company.BLL.AssemblyInfoInputs.cache
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\Company.BLL.AssemblyInfo.cs
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.CoreCompileInputs.cache
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.CopyComplete
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\Company.BLL.dll
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\ref\Company.BLL.dll
+E:\C# Projects\Company.console\Company.BLL\obj\Debug\net5.0\Company.BLL.pdb
